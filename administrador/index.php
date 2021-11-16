@@ -64,7 +64,7 @@ if($_POST){
 
                         <div class = "form-group">
                             <label>Usuario</label>
-                            <input type="text" class="form-control" name="txtNombre" id="txtNombre" placeholder="Escribe tu usuario">
+                            <input type="email" class="form-control" name="txtNombre" id="txtNombre" placeholder="Escribe tu usuario">
                         </div>
                         
                         <div class="form-group">
